@@ -2,7 +2,7 @@
 
 **Solution Architect | Full-Stack Developer | Node.js · Nest.js · React.js**
 
-As a highly skilled Solution Architect and Full-Stack Developer with 13+ years of experience building high-performing, award-winning web applications, I specialize in **Node.js**, **Nest.js**, **React.js**, **C#**, and **.NET**. I also have advanced experience across **AWS** and designing **CI/CD** pipelines. Detail-oriented, organized, and collaborative—I love turning complex ideas into reliable, scalable systems.
+As a highly skilled Solution Architect and Full-Stack Developer with 10+ years of experience building high-performing, award-winning web applications, I specialize in **Node.js**, **Nest.js**, **React.js**, **C#**, and **.NET**. I also have advanced experience across **AWS** and designing **CI/CD** pipelines. Detail-oriented, organized, and collaborative—I love turning complex ideas into reliable, scalable systems.
 
 ---
 
