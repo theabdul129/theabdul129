@@ -2,7 +2,7 @@
 
 **Senior Applied AI & Full-Stack Engineer | TypeScript · Node.js · Python · React | LLMs · RAG · AI Agents | AWS**
 
-As a highly skilled AI & Full-Stack Engineer with 8+ years of experience building high-performing, award-winning web applications, I specialize in **Node.js**, **Nest.js**, **React.js**, Python, LLMs, RAG and AI Agents**. I also have advanced experience across **AWS** and designing **CI/CD** pipelines. Detail-oriented, organized, and collaborative—I love turning complex ideas into reliable, scalable systems.
+As a highly skilled AI & Full-Stack Engineer with 8+ years of experience building high-performing, award-winning web applications, I specialize in **Node.js**, **Nest.js**, **React.js**, Python, LLMs, RAG and AI Agents. I also have advanced experience across **AWS** and designing **CI/CD** pipelines. Detail-oriented, organized, and collaborative—I love turning complex ideas into reliable, scalable systems.
 
 ---
 
