@@ -8,20 +8,19 @@ As a highly skilled AI & Full-Stack Engineer with 8+ years of experience buildin
 
 ### 🔎 At a glance
 - 🌍 Based in **Lahore, Pakistan**
-- 🚀 Currently working on **[KFH Retail Banking](https://www.kfh.com/en/home/Personal.html)**
-- 🧠 Implementing **Architecture Design** in modern web apps
+- 🧠 Implemented **Architecture Design** in modern web apps
 - 🤝 Open to collaborating on **Community Web Apps**
 - ⚡ Fun fact: I’m secretly **Superman**… keep it between us!
 
 ---
 
 ### 🛠️ Skills
-`JavaScript` · `Node.js` · `React.js` · `Nest.js` · `C#` · `.NET` · `AWS` · `Architecture Design` · `CI/CD`
+`JavaScript` · `Node.js` · `React.js` · `Nest.js` · `Python` · `LLMs` · `RAG` . `AI Agents` . `AWS` · `Architecture Design` · `CI/CD`
 
 ---
 
 ### 🌟 Highlights & Products
-- **HBL Savings**
+- **Afiniti Agents**
 - **Naylam**
 - **SpendeDebt**
 - **KFH Retail Banking**
